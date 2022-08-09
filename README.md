@@ -1,1 +1,1 @@
-The Odin project studing and discovering
+The Odin project studying and discovering
