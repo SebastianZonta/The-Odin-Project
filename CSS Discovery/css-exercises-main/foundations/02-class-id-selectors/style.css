@@ -1,0 +1,18 @@
+.odd-number {
+    background-color: pink;
+    font-size: 25px;
+}
+
+.odd-number-custom {
+    font-size: 35px;
+}
+
+#number-two {
+    font-size: 40px;
+    color: blue;
+}
+
+#another-number-two {
+    background-color: green;
+    font-weight: bold;
+}
